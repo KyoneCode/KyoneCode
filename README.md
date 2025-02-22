@@ -1,4 +1,4 @@
-- 👋 Hi, Hadyan Kholish Prasetio
+- 👋 Hi, Hadyan Kholish Prasetio Here!!
 - 👀 I’m currently a student in University of Diponegoro
 - 🌱 Currently learning C
 
